@@ -102,7 +102,7 @@ const exchangeServices = [
     from: "Credit Card",
     to: "Crypto",
     fee: "10%",
-    note: "via Stripe - Min. $5",
+    note: "via Stripe - Min. $10",
     FromIcon: CreditCardIcon,
     ToIcon: CryptoIcon,
     stripeEnabled: true,
