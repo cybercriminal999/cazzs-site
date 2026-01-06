@@ -57,14 +57,14 @@ const exchangeServices = [
   {
     from: "Revolut",
     to: "Crypto",
-    fee: "1%",
+    fee: "2%",
     FromIcon: RevolutIcon,
     ToIcon: CryptoIcon,
   },
   {
     from: "Crypto",
     to: "Revolut",
-    fee: "1%",
+    fee: "2%",
     FromIcon: CryptoIcon,
     ToIcon: RevolutIcon,
   },
